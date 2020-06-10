@@ -1,11 +1,17 @@
 * AI + CogSci Hack Pack
 A public repository of resources for building knowledge, intuition, and perspective for artificial intelligence and cognitive science.
 
-* Books
+** Books
+What separates a good researcher from a great researcher is intuition. These books will help build your intuition. These books are not textbooks and instead focus on bigger picture, abstract perspectives and problems.
 
-* Seminal Papers
+*** Artificial Intelligence
+*** Machine Learning
 
-* Courseware
+** Textbooks
 
-** MOOCs
-** Tutorials
+** Seminal Papers
+
+** Courseware
+
+*** MOOCs
+*** Tutorials
